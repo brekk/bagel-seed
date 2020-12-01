@@ -32,6 +32,9 @@
   border: 0;
   font-size: 1.5rem;
 }
+.App__search-option--active {
+  background-color: #0cf;
+}
 
 .App__link {
   color: #61dafb;
