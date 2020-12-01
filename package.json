@@ -8,9 +8,9 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.0",
     "blem": "^0.0.9",
+    "dice-similarity-coeff": "^1.1.1",
     "fluture": "^13.0.1",
     "half-baked": "^0.0.1",
-    "leven": "^3.1.0",
     "ramda": "^0.27.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "eslint": "^7.14.0",
+    "eslint-config-react-app": "^6.0.0",
     "eslint-config-sorcerers": "^0.0.5",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.2.1",

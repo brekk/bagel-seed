@@ -2,3 +2,7 @@ extends:
  - eslint-config-sorcerers
  - react-app
  - react-app/jest
+rules:
+ arrow-parens:
+ - error
+ - always

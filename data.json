@@ -1,0 +1,464 @@
+{
+  "data": [
+    {
+      "id": "acai",
+      "name": "Açaí"
+    },
+    {
+      "id": "apple",
+      "name": "Apple"
+    },
+    {
+      "id": "akee",
+      "name": "Akee"
+    },
+    {
+      "id": "apricot",
+      "name": "Apricot"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado"
+    },
+    {
+      "id": "banana",
+      "name": "Banana"
+    },
+    {
+      "id": "bilberry",
+      "name": "Bilberry"
+    },
+    {
+      "id": "blackberry",
+      "name": "Blackberry"
+    },
+    {
+      "id": "blackcurrant",
+      "name": "Blackcurrant"
+    },
+    {
+      "id": "black-sapote",
+      "name": "Black sapote"
+    },
+    {
+      "id": "blueberry",
+      "name": "Blueberry"
+    },
+    {
+      "id": "boysenberry",
+      "name": "Boysenberry"
+    },
+    {
+      "id": "buddhas-hand",
+      "name": "Buddha's hand"
+    },
+    {
+      "id": "crab-apples",
+      "name": "Crab apples"
+    },
+    {
+      "id": "currant",
+      "name": "Currant"
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry"
+    },
+    {
+      "id": "cherimoya",
+      "name": "Cherimoya"
+    },
+    {
+      "id": "chico-fruit",
+      "name": "Chico fruit"
+    },
+    {
+      "id": "cloudberry",
+      "name": "Cloudberry"
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut"
+    },
+    {
+      "id": "cranberry",
+      "name": "Cranberry"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber"
+    },
+    {
+      "id": "damson",
+      "name": "Damson"
+    },
+    {
+      "id": "date",
+      "name": "Date"
+    },
+    {
+      "id": "dragonfruit",
+      "name": "Dragonfruit"
+    },
+    {
+      "id": "pitaya",
+      "name": "Pitaya"
+    },
+    {
+      "id": "durian",
+      "name": "Durian"
+    },
+    {
+      "id": "elderberry",
+      "name": "Elderberry"
+    },
+    {
+      "id": "feijoa",
+      "name": "Feijoa"
+    },
+    {
+      "id": "fig",
+      "name": "Fig"
+    },
+    {
+      "id": "goji-berry",
+      "name": "Goji berry"
+    },
+    {
+      "id": "gooseberry",
+      "name": "Gooseberry"
+    },
+    {
+      "id": "grape",
+      "name": "Grape"
+    },
+    {
+      "id": "raisin",
+      "name": "Raisin"
+    },
+    {
+      "id": "grapefruit",
+      "name": "Grapefruit"
+    },
+    {
+      "id": "guava",
+      "name": "Guava"
+    },
+    {
+      "id": "honeyberry",
+      "name": "Honeyberry"
+    },
+    {
+      "id": "huckleberry",
+      "name": "Huckleberry"
+    },
+    {
+      "id": "jabuticaba",
+      "name": "Jabuticaba"
+    },
+    {
+      "id": "jackfruit",
+      "name": "Jackfruit"
+    },
+    {
+      "id": "jambul",
+      "name": "Jambul"
+    },
+    {
+      "id": "japanese-plum",
+      "name": "Japanese plum"
+    },
+    {
+      "id": "jostaberry",
+      "name": "Jostaberry"
+    },
+    {
+      "id": "jujube",
+      "name": "Jujube"
+    },
+    {
+      "id": "juniper-berry",
+      "name": "Juniper berry"
+    },
+    {
+      "id": "kiwano",
+      "name": "Kiwano"
+    },
+    {
+      "id": "kiwifruit",
+      "name": "Kiwifruit"
+    },
+    {
+      "id": "kumquat",
+      "name": "Kumquat"
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon"
+    },
+    {
+      "id": "lime",
+      "name": "Lime"
+    },
+    {
+      "id": "loquat",
+      "name": "Loquat"
+    },
+    {
+      "id": "longan",
+      "name": "Longan"
+    },
+    {
+      "id": "lychee",
+      "name": "Lychee"
+    },
+    {
+      "id": "mango",
+      "name": "Mango"
+    },
+    {
+      "id": "mangosteen",
+      "name": "Mangosteen"
+    },
+    {
+      "id": "marionberry",
+      "name": "Marionberry"
+    },
+    {
+      "id": "melon",
+      "name": "Melon"
+    },
+    {
+      "id": "cantaloupe",
+      "name": "Cantaloupe"
+    },
+    {
+      "id": "honeydew",
+      "name": "Honeydew"
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon"
+    },
+    {
+      "id": "miracle-fruit",
+      "name": "Miracle fruit"
+    },
+    {
+      "id": "mulberry",
+      "name": "Mulberry"
+    },
+    {
+      "id": "nectarine",
+      "name": "Nectarine"
+    },
+    {
+      "id": "nance",
+      "name": "Nance"
+    },
+    {
+      "id": "olive",
+      "name": "Olive"
+    },
+    {
+      "id": "orange",
+      "name": "Orange"
+    },
+    {
+      "id": "blood-orange",
+      "name": "Blood orange"
+    },
+    {
+      "id": "clementine",
+      "name": "Clementine"
+    },
+    {
+      "id": "mandarine",
+      "name": "Mandarine"
+    },
+    {
+      "id": "tangerine",
+      "name": "Tangerine"
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya"
+    },
+    {
+      "id": "passionfruit",
+      "name": "Passionfruit"
+    },
+    {
+      "id": "peach",
+      "name": "Peach"
+    },
+    {
+      "id": "pear",
+      "name": "Pear"
+    },
+    {
+      "id": "persimmon",
+      "name": "Persimmon"
+    },
+    {
+      "id": "plantain",
+      "name": "Plantain"
+    },
+    {
+      "id": "plum",
+      "name": "Plum"
+    },
+    {
+      "id": "prune",
+      "name": "Prune"
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple"
+    },
+    {
+      "id": "pineberry",
+      "name": "Pineberry"
+    },
+    {
+      "id": "plumcot",
+      "name": "Plumcot"
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate"
+    },
+    {
+      "id": "pomelo",
+      "name": "Pomelo"
+    },
+    {
+      "id": "purple-mangosteen",
+      "name": "Purple mangosteen"
+    },
+    {
+      "id": "quince",
+      "name": "Quince"
+    },
+    {
+      "id": "raspberry",
+      "name": "Raspberry"
+    },
+    {
+      "id": "salmonberry",
+      "name": "Salmonberry"
+    },
+    {
+      "id": "rambutan",
+      "name": "Rambutan"
+    },
+    {
+      "id": "redcurrant",
+      "name": "Redcurrant"
+    },
+    {
+      "id": "salal",
+      "name": "Salal"
+    },
+    {
+      "id": "salak",
+      "name": "Salak"
+    },
+    {
+      "id": "satsuma",
+      "name": "Satsuma"
+    },
+    {
+      "id": "soursop",
+      "name": "Soursop"
+    },
+    {
+      "id": "star-apple",
+      "name": "Star apple"
+    },
+    {
+      "id": "star-fruit",
+      "name": "Star fruit"
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry"
+    },
+    {
+      "id": "surinam-cherry",
+      "name": "Surinam cherry"
+    },
+    {
+      "id": "tamarillo",
+      "name": "Tamarillo"
+    },
+    {
+      "id": "tamarind",
+      "name": "Tamarind"
+    },
+    {
+      "id": "ugli-fruit",
+      "name": "Ugli fruit"
+    },
+    {
+      "id": "white-currant",
+      "name": "White currant"
+    },
+    {
+      "id": "white-sapote",
+      "name": "White sapote"
+    },
+    {
+      "id": "yuzu",
+      "name": "Yuzu"
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado"
+    },
+    {
+      "id": "bell-pepper",
+      "name": "Bell pepper"
+    },
+    {
+      "id": "chili-pepper",
+      "name": "Chili pepper"
+    },
+    {
+      "id": "corn-kernel",
+      "name": "Corn kernel"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber"
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant"
+    },
+    {
+      "id": "olive",
+      "name": "Olive"
+    },
+    {
+      "id": "pea",
+      "name": "Pea"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin"
+    },
+    {
+      "id": "squash",
+      "name": "Squash"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato"
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini"
+    }
+  ]
+}

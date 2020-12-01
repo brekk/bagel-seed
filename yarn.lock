@@ -4135,6 +4135,11 @@ detect-port-alt@1.1.6:
     address "^1.0.1"
     debug "^2.6.0"
 
+dice-similarity-coeff@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/dice-similarity-coeff/-/dice-similarity-coeff-1.1.1.tgz#c7962443eb7f4dd8b94f293172f8c9ee81b0c029"
+  integrity sha512-58GtX08RZnDAalGIlEprkjZSpEbLacHwxGNDrT93B9mEzivauXXwE0rC0kB5x8grsUTgNakHpQBmHc06hvlujQ==
+
 diff-sequences@^26.6.2:
   version "26.6.2"
   resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-26.6.2.tgz#48ba99157de1923412eed41db6b6d4aa9ca7c0b1"
